@@ -7,7 +7,7 @@ for q in range(n):
 i = 0
 lastplus = a[0]
 while i < len(a):
-		if (a[i]>lastplus):
+		if (a[i]>0):
 			lastplus = a[i]
 		i += 1
 i = 0
