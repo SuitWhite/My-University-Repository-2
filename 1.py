@@ -1,20 +1,35 @@
-a = []
-print("Enter n:")
-n = int(input())
-print("Enter elements of array:")
-for q in range(n):
-	a.append(int(input()))
-i = 0
-lastplus = a[0]
-while i < len(a):
-		if (a[i]>0):
-			lastplus = a[i]
-		i += 1
-i = 0
-dobutok = 1
-while i < len(a):
-	if a[i] == lastplus:
-		break
-	dobutok *= a[i]
-	i += 1
-print("Result: ", dobutok)
+class MyException(Exception): pass
+while True:
+        try:
+            a = []
+            print("Enter n:")
+            n = int(input())
+            if n<=0:
+                raise MyException
+                
+            print("Enter elements of array:")
+            for q in range(n):
+                a.append(int(input()))
+                
+            i = 0
+            lastplus = a[0]
+            while i < len(a):
+                if (a[i]>0):
+                    lastplus = a[i]
+                i += 1
+                
+            i = 0
+            dobutok = 1
+            while i < len(a):
+                if a[i] == lastplus:
+                    break
+                dobutok *= a[i]
+                i += 1
+                
+            print("Result: ", dobutok)
+        except MyException:
+            print("N<1")
+            continue
+        except ValueError:
+            print("Value should be int")
+            continue
