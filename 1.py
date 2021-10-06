@@ -33,10 +33,13 @@ def count(array):
         dobutok *= array[i]
     return dobutok
         
+def main():
+    while True:
+        n = input_number()
+        array = array_init(n)
+        dobutok = count(array)
+        print("Result: ", dobutok)
 
-while True:
-    n = input_number()
-    array = array_init(n)
-    dobutok = count(array)
-    print("Result: ", dobutok)
+if __name__ == "__main__": 
+    main()
         
