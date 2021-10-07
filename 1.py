@@ -1,6 +1,6 @@
 class MyException(Exception): pass
 
-def input_number():
+def input_positive_number():
     while True:
         try:
             n = int(input())
@@ -13,12 +13,22 @@ def input_number():
         except ValueError:
             print("Value should be int")
             continue
+            
+ 
+def input_number():
+    while True:
+        try:
+            n = int(input())
+            return n
+        except ValueError:
+            print("Value should be int")
+            continue
                 
 def array_init(n:int):
     a = []
     print("Enter elements of array:")
     for q in range(n):
-        a.append(int(input()))
+        a.append(input_number())
     return a
 
 def count(array):
@@ -35,7 +45,7 @@ def count(array):
         
 def main():
     while True:
-        n = input_number()
+        n = input_positive_number()
         array = array_init(n)
         dobutok = count(array)
         print("Result: ", dobutok)
