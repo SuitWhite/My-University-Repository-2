@@ -36,12 +36,19 @@ def show_matrix(matrix, size_of_matrix):
             ryadok+=str(modul(matrix[i][j])+1)
             ryadok+=" "
         print(ryadok)
+        
+def Exit():
+    print("Вийти з програми? (y,n):")
+    ch = input()
+    if (ch=='y'):
+        exit()
  
 def main():       
     while True:
         N = input_positive_number()
         A = matrix_init(N)
         show_matrix(A,N)
+        Exit()
         
 if __name__ == "__main__": 
     main()
