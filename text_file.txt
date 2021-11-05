@@ -1,0 +1,12 @@
+------------
+city: Rome
+budget: 105.05
+start_date: 1.1.2021
+end_date: 5.1.2021
+username: Ab
+------------
+city: Naples
+budget: 6653425.12
+start_date: 1.1.2022
+end_date: 5.1.2025
+username: UserName
