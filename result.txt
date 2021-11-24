@@ -1,0 +1,41 @@
+----------------------------------------------------------------------------------------------------
+id: 0
+title: <function validate_title.<locals>.wrapper at 0x0000018F06EAD0D0>
+code: <function validate_code.<locals>.wrapper at 0x0000018F06EAD160>
+material: <function validate_material.<locals>.wrapper at 0x0000018F06EAD1F0>
+type: <function validate_type.<locals>.wrapper at 0x0000018F06EAD280>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x0000018F06EAD310>
+price: <function validate_price.<locals>.wrapper at 0x0000018F06EAD3A0>
+----------------------------------------------------------------------------------------------------
+id: 1
+title: <function validate_title.<locals>.wrapper at 0x0000018F06EAD430>
+code: <function validate_code.<locals>.wrapper at 0x0000018F06EAD4C0>
+material: <function validate_material.<locals>.wrapper at 0x0000018F06EAD550>
+type: <function validate_type.<locals>.wrapper at 0x0000018F06EAD5E0>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x0000018F06EAD670>
+price: <function validate_price.<locals>.wrapper at 0x0000018F06EAD700>
+----------------------------------------------------------------------------------------------------
+id: 2
+title: <function validate_title.<locals>.wrapper at 0x0000018F06EAD790>
+code: <function validate_code.<locals>.wrapper at 0x0000018F06EAD820>
+material: <function validate_material.<locals>.wrapper at 0x0000018F06EAD8B0>
+type: <function validate_type.<locals>.wrapper at 0x0000018F06EAD940>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x0000018F06EAD9D0>
+price: <function validate_price.<locals>.wrapper at 0x0000018F06EADA60>
+----------------------------------------------------------------------------------------------------
+id: 3
+title: <function validate_title.<locals>.wrapper at 0x0000018F06EADAF0>
+code: <function validate_code.<locals>.wrapper at 0x0000018F06EADB80>
+material: <function validate_material.<locals>.wrapper at 0x0000018F06EADC10>
+type: <function validate_type.<locals>.wrapper at 0x0000018F06EADCA0>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x0000018F06EADD30>
+price: <function validate_price.<locals>.wrapper at 0x0000018F06EADDC0>
+----------------------------------------------------------------------------------------------------
+id: 4
+title: <function validate_title.<locals>.wrapper at 0x0000018F06EADE50>
+code: <function validate_code.<locals>.wrapper at 0x0000018F06EADEE0>
+material: <function validate_material.<locals>.wrapper at 0x0000018F06EADF70>
+type: <function validate_type.<locals>.wrapper at 0x0000018F06EB4040>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x0000018F06EB40D0>
+price: <function validate_price.<locals>.wrapper at 0x0000018F06EB4160>
+----------------------------------------------------------------------------------------------------

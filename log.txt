@@ -1,0 +1,1323 @@
+
+----------------------------------------------------------------------------------------------------
+Add:
+id: 
+title: 
+code: 
+material: 
+type: 
+date_of_creation: 
+price: 
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 3.3.2014
+price: 1
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 3.3.2012
+price: 1
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 1
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 1
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+
+***********
+Wrong title
+***********
+
+
+******************
+Wrong size of code
+******************
+
+
+**************
+Wrong material
+**************
+
+
+**************
+Wrong material
+**************
+
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+
+***********
+Wrong title
+***********
+
+
+******************
+Wrong size of code
+******************
+
+
+**************
+Wrong material
+**************
+
+
+**************
+Wrong material
+**************
+
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+
+***********
+Wrong title
+***********
+
+
+******************
+Wrong size of code
+******************
+
+
+**************
+Wrong material
+**************
+
+
+**************
+Wrong material
+**************
+
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 1
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 1
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 1
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 1
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 1
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 1
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 1
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 1
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 1
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 1
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 1
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 1
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 1
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 1
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 1
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 1
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 31234/1-23
+material: silver
+type: rings
+date_of_creation: 3.2.2021
+price: 3
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Title
+code: 23212/3-21
+material: gold
+type: rings
+date_of_creation: 2.2.2013
+price: 5
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 167
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 189
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 100
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 167
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 189
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 100
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 167
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 189
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 100
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 167
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 189
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 100
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 167
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 189
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 100
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 167
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 189
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 100
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 167
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 189
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 100
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 167
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 189
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 100
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 167
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 189
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 100
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+
+**************
+Wrong material
+**************
+
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: New
+code: 12345/2-54
+material: gold
+type: earrings
+date_of_creation: 1.1.2021
+price: 400
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 167
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 189
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 100
+----------------------------------------------------------------------------------------------------
+Add:
+id: 4
+title: New
+code: 12345/2-54
+material: gold
+type: earrings
+date_of_creation: 1.1.2021
+price: 400
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 167
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 189
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 100
+----------------------------------------------------------------------------------------------------
+Add:
+id: 4
+title: New
+code: 12345/2-54
+material: gold
+type: earrings
+date_of_creation: 1.1.2021
+price: 400
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+
+***********
+Wrong title
+***********
+
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+
+***********
+Wrong title
+***********
+
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Na
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 167
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 189
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 100
+----------------------------------------------------------------------------------------------------
+Add:
+id: 4
+title: New
+code: 12345/2-54
+material: gold
+type: earrings
+date_of_creation: 1.1.2021
+price: 400
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+
+******************
+Wrong size of code
+******************
+
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+
+******************
+Wrong size of code
+******************
+
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+
+******************
+Wrong size of code
+******************
+
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+
+*******************************
+Value error: Wrong size of code
+*******************************
+
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+
+***********
+Value error
+***********
+
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+
+*****************************************
+Value error in file: code:54321/3jghjh-21
+*****************************************
+
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+
+*****************************************
+Value error in file: code:54321/3jghjh-21
+*****************************************
+
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: Na
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 167
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: Title
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 189
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: Name
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 100
+----------------------------------------------------------------------------------------------------
+Add:
+id: 4
+title: New
+code: 12345/2-54
+material: gold
+type: earrings
+date_of_creation: 1.1.2021
+price: 400
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: <function validate_title.<locals>.wrapper at 0x00000170CFF5C0D0>
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 145
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: <function validate_title.<locals>.wrapper at 0x00000170CFF5C160>
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 167
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: <function validate_title.<locals>.wrapper at 0x00000170CFF5C1F0>
+code: 12345/1-23
+material: gold
+type: rings
+date_of_creation: 12.12.2011
+price: 189
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: <function validate_title.<locals>.wrapper at 0x00000170CFF5C280>
+code: 54321/3-21
+material: silver
+type: bracelets
+date_of_creation: 12.3.2013
+price: 100
+----------------------------------------------------------------------------------------------------
+Add:
+id: 4
+title: <function validate_title.<locals>.wrapper at 0x00000170CFF5C310>
+code: 12345/2-54
+material: gold
+type: earrings
+date_of_creation: 1.1.2021
+price: 400
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: <function validate_title.<locals>.wrapper at 0x00000224E757D0D0>
+code: <function validate_code.<locals>.wrapper at 0x00000224E757D160>
+material: <function validate_material.<locals>.wrapper at 0x00000224E757D1F0>
+type: <function validate_type.<locals>.wrapper at 0x00000224E757D280>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x00000224E757D310>
+price: <function validate_price.<locals>.wrapper at 0x00000224E757D3A0>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: <function validate_title.<locals>.wrapper at 0x00000224E757D430>
+code: <function validate_code.<locals>.wrapper at 0x00000224E757D4C0>
+material: <function validate_material.<locals>.wrapper at 0x00000224E757D550>
+type: <function validate_type.<locals>.wrapper at 0x00000224E757D5E0>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x00000224E757D670>
+price: <function validate_price.<locals>.wrapper at 0x00000224E757D700>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: <function validate_title.<locals>.wrapper at 0x00000224E757D790>
+code: <function validate_code.<locals>.wrapper at 0x00000224E757D820>
+material: <function validate_material.<locals>.wrapper at 0x00000224E757D8B0>
+type: <function validate_type.<locals>.wrapper at 0x00000224E757D940>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x00000224E757D9D0>
+price: <function validate_price.<locals>.wrapper at 0x00000224E757DA60>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: <function validate_title.<locals>.wrapper at 0x00000224E757DAF0>
+code: <function validate_code.<locals>.wrapper at 0x00000224E757DB80>
+material: <function validate_material.<locals>.wrapper at 0x00000224E757DC10>
+type: <function validate_type.<locals>.wrapper at 0x00000224E757DCA0>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x00000224E757DD30>
+price: <function validate_price.<locals>.wrapper at 0x00000224E757DDC0>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 4
+title: <function validate_title.<locals>.wrapper at 0x00000224E757DE50>
+code: <function validate_code.<locals>.wrapper at 0x00000224E757DEE0>
+material: <function validate_material.<locals>.wrapper at 0x00000224E757DF70>
+type: <function validate_type.<locals>.wrapper at 0x00000224E7583040>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x00000224E75830D0>
+price: <function validate_price.<locals>.wrapper at 0x00000224E7583160>
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: <function validate_title.<locals>.wrapper at 0x00000292876FD0D0>
+code: <function validate_code.<locals>.wrapper at 0x00000292876FD160>
+material: <function validate_material.<locals>.wrapper at 0x00000292876FD1F0>
+type: <function validate_type.<locals>.wrapper at 0x00000292876FD280>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x00000292876FD310>
+price: <function validate_price.<locals>.wrapper at 0x00000292876FD3A0>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: <function validate_title.<locals>.wrapper at 0x00000292876FD430>
+code: <function validate_code.<locals>.wrapper at 0x00000292876FD4C0>
+material: <function validate_material.<locals>.wrapper at 0x00000292876FD550>
+type: <function validate_type.<locals>.wrapper at 0x00000292876FD5E0>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x00000292876FD670>
+price: <function validate_price.<locals>.wrapper at 0x00000292876FD700>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: <function validate_title.<locals>.wrapper at 0x00000292876FD790>
+code: <function validate_code.<locals>.wrapper at 0x00000292876FD820>
+material: <function validate_material.<locals>.wrapper at 0x00000292876FD8B0>
+type: <function validate_type.<locals>.wrapper at 0x00000292876FD940>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x00000292876FD9D0>
+price: <function validate_price.<locals>.wrapper at 0x00000292876FDA60>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: <function validate_title.<locals>.wrapper at 0x00000292876FDAF0>
+code: <function validate_code.<locals>.wrapper at 0x00000292876FDB80>
+material: <function validate_material.<locals>.wrapper at 0x00000292876FDC10>
+type: <function validate_type.<locals>.wrapper at 0x00000292876FDCA0>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x00000292876FDD30>
+price: <function validate_price.<locals>.wrapper at 0x00000292876FDDC0>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 4
+title: <function validate_title.<locals>.wrapper at 0x00000292876FDE50>
+code: <function validate_code.<locals>.wrapper at 0x00000292876FDEE0>
+material: <function validate_material.<locals>.wrapper at 0x00000292876FDF70>
+type: <function validate_type.<locals>.wrapper at 0x0000029287703040>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x00000292877030D0>
+price: <function validate_price.<locals>.wrapper at 0x0000029287703160>
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: <function validate_title.<locals>.wrapper at 0x000002A54A06D0D0>
+code: <function validate_code.<locals>.wrapper at 0x000002A54A06D160>
+material: <function validate_material.<locals>.wrapper at 0x000002A54A06D1F0>
+type: <function validate_type.<locals>.wrapper at 0x000002A54A06D280>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x000002A54A06D310>
+price: <function validate_price.<locals>.wrapper at 0x000002A54A06D3A0>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: <function validate_title.<locals>.wrapper at 0x000002A54A06D430>
+code: <function validate_code.<locals>.wrapper at 0x000002A54A06D4C0>
+material: <function validate_material.<locals>.wrapper at 0x000002A54A06D550>
+type: <function validate_type.<locals>.wrapper at 0x000002A54A06D5E0>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x000002A54A06D670>
+price: <function validate_price.<locals>.wrapper at 0x000002A54A06D700>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: <function validate_title.<locals>.wrapper at 0x000002A54A06D790>
+code: <function validate_code.<locals>.wrapper at 0x000002A54A06D820>
+material: <function validate_material.<locals>.wrapper at 0x000002A54A06D8B0>
+type: <function validate_type.<locals>.wrapper at 0x000002A54A06D940>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x000002A54A06D9D0>
+price: <function validate_price.<locals>.wrapper at 0x000002A54A06DA60>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: <function validate_title.<locals>.wrapper at 0x000002A54A06DAF0>
+code: <function validate_code.<locals>.wrapper at 0x000002A54A06DB80>
+material: <function validate_material.<locals>.wrapper at 0x000002A54A06DC10>
+type: <function validate_type.<locals>.wrapper at 0x000002A54A06DCA0>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x000002A54A06DD30>
+price: <function validate_price.<locals>.wrapper at 0x000002A54A06DDC0>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 4
+title: <function validate_title.<locals>.wrapper at 0x000002A54A06DE50>
+code: <function validate_code.<locals>.wrapper at 0x000002A54A06DEE0>
+material: <function validate_material.<locals>.wrapper at 0x000002A54A06DF70>
+type: <function validate_type.<locals>.wrapper at 0x000002A54A073040>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x000002A54A0730D0>
+price: <function validate_price.<locals>.wrapper at 0x000002A54A073160>
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: <function validate_title.<locals>.wrapper at 0x000001B1AADBD0D0>
+code: <function validate_code.<locals>.wrapper at 0x000001B1AADBD160>
+material: <function validate_material.<locals>.wrapper at 0x000001B1AADBD1F0>
+type: <function validate_type.<locals>.wrapper at 0x000001B1AADBD280>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x000001B1AADBD310>
+price: <function validate_price.<locals>.wrapper at 0x000001B1AADBD3A0>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: <function validate_title.<locals>.wrapper at 0x000001B1AADBD430>
+code: <function validate_code.<locals>.wrapper at 0x000001B1AADBD4C0>
+material: <function validate_material.<locals>.wrapper at 0x000001B1AADBD550>
+type: <function validate_type.<locals>.wrapper at 0x000001B1AADBD5E0>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x000001B1AADBD670>
+price: <function validate_price.<locals>.wrapper at 0x000001B1AADBD700>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: <function validate_title.<locals>.wrapper at 0x000001B1AADBD790>
+code: <function validate_code.<locals>.wrapper at 0x000001B1AADBD820>
+material: <function validate_material.<locals>.wrapper at 0x000001B1AADBD8B0>
+type: <function validate_type.<locals>.wrapper at 0x000001B1AADBD940>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x000001B1AADBD9D0>
+price: <function validate_price.<locals>.wrapper at 0x000001B1AADBDA60>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: <function validate_title.<locals>.wrapper at 0x000001B1AADBDAF0>
+code: <function validate_code.<locals>.wrapper at 0x000001B1AADBDB80>
+material: <function validate_material.<locals>.wrapper at 0x000001B1AADBDC10>
+type: <function validate_type.<locals>.wrapper at 0x000001B1AADBDCA0>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x000001B1AADBDD30>
+price: <function validate_price.<locals>.wrapper at 0x000001B1AADBDDC0>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 4
+title: <function validate_title.<locals>.wrapper at 0x000001B1AADBDE50>
+code: <function validate_code.<locals>.wrapper at 0x000001B1AADBDEE0>
+material: <function validate_material.<locals>.wrapper at 0x000001B1AADBDF70>
+type: <function validate_type.<locals>.wrapper at 0x000001B1AADC2040>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x000001B1AADC20D0>
+price: <function validate_price.<locals>.wrapper at 0x000001B1AADC2160>
+----------------------------------------------------------------------------------------------------
+Load info from:
+text_file.txt
+----------------------------------------------------------------------------------------------------
+Add:
+id: 0
+title: <function validate_title.<locals>.wrapper at 0x0000018F06EAD0D0>
+code: <function validate_code.<locals>.wrapper at 0x0000018F06EAD160>
+material: <function validate_material.<locals>.wrapper at 0x0000018F06EAD1F0>
+type: <function validate_type.<locals>.wrapper at 0x0000018F06EAD280>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x0000018F06EAD310>
+price: <function validate_price.<locals>.wrapper at 0x0000018F06EAD3A0>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 1
+title: <function validate_title.<locals>.wrapper at 0x0000018F06EAD430>
+code: <function validate_code.<locals>.wrapper at 0x0000018F06EAD4C0>
+material: <function validate_material.<locals>.wrapper at 0x0000018F06EAD550>
+type: <function validate_type.<locals>.wrapper at 0x0000018F06EAD5E0>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x0000018F06EAD670>
+price: <function validate_price.<locals>.wrapper at 0x0000018F06EAD700>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 2
+title: <function validate_title.<locals>.wrapper at 0x0000018F06EAD790>
+code: <function validate_code.<locals>.wrapper at 0x0000018F06EAD820>
+material: <function validate_material.<locals>.wrapper at 0x0000018F06EAD8B0>
+type: <function validate_type.<locals>.wrapper at 0x0000018F06EAD940>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x0000018F06EAD9D0>
+price: <function validate_price.<locals>.wrapper at 0x0000018F06EADA60>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 3
+title: <function validate_title.<locals>.wrapper at 0x0000018F06EADAF0>
+code: <function validate_code.<locals>.wrapper at 0x0000018F06EADB80>
+material: <function validate_material.<locals>.wrapper at 0x0000018F06EADC10>
+type: <function validate_type.<locals>.wrapper at 0x0000018F06EADCA0>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x0000018F06EADD30>
+price: <function validate_price.<locals>.wrapper at 0x0000018F06EADDC0>
+----------------------------------------------------------------------------------------------------
+Add:
+id: 4
+title: <function validate_title.<locals>.wrapper at 0x0000018F06EADE50>
+code: <function validate_code.<locals>.wrapper at 0x0000018F06EADEE0>
+material: <function validate_material.<locals>.wrapper at 0x0000018F06EADF70>
+type: <function validate_type.<locals>.wrapper at 0x0000018F06EB4040>
+date_of_creation: <function validate_date_of_creation.<locals>.wrapper at 0x0000018F06EB40D0>
+price: <function validate_price.<locals>.wrapper at 0x0000018F06EB4160>
